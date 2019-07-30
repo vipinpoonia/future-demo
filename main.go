@@ -1,4 +1,4 @@
-package future_demo
+package main
 
 import (
 	"fmt"
